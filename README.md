@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibrahim Sulemana
 - 👀 I’m interested in Cyber Security & Ethical Hacking
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development project and Cyber Securit maybe in the future.
+- 💞️ I’m looking to collaborate on Web Development project and Cyber Security maybe in the future.
 - 📫 You can reach me through my socials below 👇
 
     [Twitter](https://twitter.com/hash_codes) <br>
