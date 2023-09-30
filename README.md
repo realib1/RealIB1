@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development project and Cyber Security maybe in the future.
 - 📫 You can reach me through my socials below 👇
 
-    [Twitter](https://twitter.com/hash_codes) <br>
+    [Twitter](https://twitter.com/real_ib1) <br>
     [LinkedIn](https://linkedin.com/in/ibrahim-sulemana) <br>
     [Gmail](ibeevpersie@gmail.com)
     
