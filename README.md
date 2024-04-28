@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on the Web Development project and CyberSecurity in the future.
 - 📫 You can reach me through my socials below 👇
 
-    [Twitter](https://twitter.com/shero_gp) <br>
     [LinkedIn](https://linkedin.com/in/ibrahim-sulemana) <br>
+    [Twitter](https://twitter.com/shero_gp) <br>
     [Email](ibrahimsulemanawunpini@gmail.com)
     
 
