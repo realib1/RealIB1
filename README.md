@@ -1,12 +1,12 @@
 - 👋 Hi, I’m Ibrahim Sulemana
 - 👀 I’m interested in Cyber Security & Ethical Hacking
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development project and Cyber Security maybe in the future.
+- 💞️ I’m looking to collaborate on the Web Development project and CyberSecurity in the future.
 - 📫 You can reach me through my socials below 👇
 
-    [Twitter](https://twitter.com/real_ib1) <br>
+    [Twitter](https://twitter.com/shero_gp) <br>
     [LinkedIn](https://linkedin.com/in/ibrahim-sulemana) <br>
-    [Gmail](ibeevpersie@gmail.com)
+    [Email](ibrahimsulemanawunpini@gmail.com)
     
 
 
